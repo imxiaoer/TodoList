@@ -1,21 +1,16 @@
-# todolist
+# TodoList
 
-> A Vue.js project
+> 一个VUE的学习小示例 - 待办事项列表
 
-## Build Setup
+## 主要功能
 
-``` bash
-# install dependencies
-npm install
+- 添加待办事项
+- 删除待办事项
 
-# serve with hot reload at localhost:8080
-npm run dev
+## 知识点
 
-# build for production with minification
-npm run build
+- 组件拆分
+- 父子组件通信
+- 事件修饰符 keyup.enter (输入框支持回车键)
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 效果图
